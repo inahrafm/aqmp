@@ -24,13 +24,6 @@ This Portable Air Quality Monitoring device is designed to measure real-time air
 
 ## Installation
 Steps to install the project:
-1. Mount the device securely on a two-wheeled vehicle (motorcycle or bicycle).
-2. Ensure the battery is charged and the solar panel is properly connected.
-3. Power on the device; it will start measuring and transmitting data automatically.
-4. Access the online dashboard via WiFi to monitor air quality data in real-time.
-
-## Installation
-Steps to install the project:
 1. Ensure you have the necessary hardware (temperature sensors, GPS module, and LoRa gateway).
 2. Clone this repository:
    ```bash
